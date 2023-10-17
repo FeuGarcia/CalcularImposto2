@@ -2,7 +2,7 @@
 
 namespace SistemaFinanceiroUGB20232.Controllers
 {
-    public class TesteController : Controller
+    public class InstituicaoController : Controller
     {
         public IActionResult Index()
         {
