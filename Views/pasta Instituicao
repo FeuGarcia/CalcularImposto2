@@ -6,3 +6,7 @@ public IActionResult  Create (Instituicao instituicao) (seguir slide)
 
 Layout
 Instituicao , Index, Instituição
+
+edit html
+tye = "hidden"
+
