@@ -1,1 +1,8 @@
 Adicionar index / list e seguir igual no slide
+fazer no instituicaocontroller: 
+[HttpPost]
+[ValidateAntiForgeryToken]
+public IActionResult  Create (Instituicao instituicao) (seguir slide)
+
+Layout
+Instituicao , Index, Instituição
